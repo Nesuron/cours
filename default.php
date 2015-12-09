@@ -19,7 +19,8 @@
             <section>
                 <article>
                     <h1><img src="images/news.jpg" alt="News" class="ico_categorie" /></h1>
-                    <p> --> Code pour les AC mis en ligne</p>
+                    <p> --> Aucune autre page que celle la est mise XD </p>
+		    <p> --> Code pour les AC mis en ligne</p>
                     <p> --> J'ai trouvé des codes pour Watch Dogs masi je suis pas sur qu'ils fonctionnent</p>
                     <p> --> Le site est un peu vide pour le moment mais il se rempliras petit a petit.<br />
 					 Je conte aussi créer un forum pour que l'on puisse discuter mais plus tard :)
